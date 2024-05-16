@@ -17,6 +17,7 @@
 - [embedded](#embedded)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [javascript](#javascript)
 - [linux](#linux)
 - [neovim](#neovim)
 - [nodejs](#nodejs)
@@ -26,10 +27,12 @@
 - [pwa](#pwa)
 - [python](#python)
 - [react](#react)
+- [react-native](#react-native)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [terminal](#terminal)
+- [typescript](#typescript)
 - [vim](#vim)
 - [vue](#vue)
 
@@ -41,6 +44,7 @@
 
 ## awesome 
 
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Alucard2169/dotfiles](https://github.com/Alucard2169/dotfiles) - This repository holds my personal dotfiles for various tiling managers.
@@ -48,6 +52,7 @@
 
 ## awesome-list 
 
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -94,6 +99,10 @@
 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+## javascript 
+
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 
 ## linux 
 
@@ -178,7 +187,12 @@
 
 ## react 
 
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
+
+## react-native 
+
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 
 ## reverse-engineering 
 
@@ -196,6 +210,10 @@
 
 - [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [Durgesh-kodan/dotfiles](https://github.com/Durgesh-kodan/dotfiles) - Arch bspwm configuration files.
+
+## typescript 
+
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 
 ## vim 
 

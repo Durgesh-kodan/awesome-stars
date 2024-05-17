@@ -38,6 +38,7 @@
 
 ## JavaScript 
 
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Durgesh-kodan/csv2json](https://github.com/Durgesh-kodan/csv2json) - 
 - [RishabhSoni01/JSON_Converter](https://github.com/RishabhSoni01/JSON_Converter) - 
 - [anisahu99/CSV-2-json-Converter](https://github.com/anisahu99/CSV-2-json-Converter) - CSV to JSON
@@ -67,6 +68,8 @@
 
 ## Others 
 
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -85,6 +88,7 @@
 
 ## Python 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Durgesh-kodan/blog_app](https://github.com/Durgesh-kodan/blog_app) - 
 
 ## Rust 

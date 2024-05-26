@@ -12,10 +12,12 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c](#c)
+- [computer-science](#computer-science)
 - [config](#config)
 - [cpp](#cpp)
 - [design](#design)
 - [docker](#docker)
+- [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [education](#education)
 - [embedded](#embedded)
@@ -23,6 +25,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
+- [learning](#learning)
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
@@ -85,6 +88,10 @@
 
 - [riti2409/Resources-for-preparation-Of-Placements](https://github.com/riti2409/Resources-for-preparation-Of-Placements) - Lecture video links for preparation of Placements
 
+## computer-science 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
 ## config 
 
 - [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
@@ -101,6 +108,10 @@
 ## docker 
 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+## documentation 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## dotfiles 
 
@@ -140,6 +151,10 @@
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+
+## learning 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## linux 
 

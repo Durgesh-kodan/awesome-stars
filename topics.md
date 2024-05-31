@@ -11,10 +11,13 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
+- [bioinformatics](#bioinformatics)
 - [c](#c)
 - [computer-science](#computer-science)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [cpp](#cpp)
+- [deep-learning](#deep-learning)
 - [design](#design)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -29,6 +32,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
+- [machine-learning](#machine-learning)
 - [neovim](#neovim)
 - [nodejs](#nodejs)
 - [others](#others)
@@ -39,7 +43,9 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reverse-engineering](#reverse-engineering)
+- [robotics](#robotics)
 - [rust](#rust)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [terminal](#terminal)
@@ -47,6 +53,7 @@
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 
 ## angular 
@@ -84,13 +91,22 @@
 
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 
+## bioinformatics 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
 ## c 
 
 - [riti2409/Resources-for-preparation-Of-Placements](https://github.com/riti2409/Resources-for-preparation-Of-Placements) - Lecture video links for preparation of Placements
 
 ## computer-science 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
+## computer-vision 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## config 
 
@@ -100,6 +116,10 @@
 ## cpp 
 
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
+
+## deep-learning 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## design 
 
@@ -171,6 +191,10 @@
 ## low-code 
 
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+
+## machine-learning 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## neovim 
 
@@ -263,9 +287,17 @@
 
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
+## robotics 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
 ## rust 
 
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+
+## security 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## self-hosted 
 
@@ -298,6 +330,10 @@
 ## web 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## web-development 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## webapp 
 

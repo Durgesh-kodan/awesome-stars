@@ -215,7 +215,7 @@
 - [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - 
 - [kabinspace/dotfiles](https://github.com/kabinspace/dotfiles) - My personal desktop configuration files.
 - [Shentxt/NordicBreeze](https://github.com/Shentxt/NordicBreeze) - My custom bspwm configuration. Read the readme for more information and comment if you have any questions.
-- [vicky-dot-bat/archvillainette-dotfiles-pub](https://github.com/vicky-dot-bat/archvillainette-dotfiles-pub) - My public dotfiles
+- [vickydotbat/archvillainette-dotfiles-pub](https://github.com/vickydotbat/archvillainette-dotfiles-pub) - My public dotfiles
 - [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - 
 - [Pranay-Lad/dotfiles](https://github.com/Pranay-Lad/dotfiles) - My Arch Linux Bspwm Dotfiles
 - [ComradeCat24/bspwm-dotfiles](https://github.com/ComradeCat24/bspwm-dotfiles) - 

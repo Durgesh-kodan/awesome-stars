@@ -103,7 +103,7 @@
 
 - [MrVivekRajan/Grub-Themes](https://github.com/MrVivekRajan/Grub-Themes) - 
 - [kabinspace/dotfiles](https://github.com/kabinspace/dotfiles) - My personal desktop configuration files.
-- [vicky-dot-bat/archvillainette-dotfiles-pub](https://github.com/vicky-dot-bat/archvillainette-dotfiles-pub) - My public dotfiles
+- [vickydotbat/archvillainette-dotfiles-pub](https://github.com/vickydotbat/archvillainette-dotfiles-pub) - My public dotfiles
 - [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - 
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow

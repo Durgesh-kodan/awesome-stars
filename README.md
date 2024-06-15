@@ -34,6 +34,7 @@
 
 ## Java 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [Durgesh-kodan/E-commerce-springboot](https://github.com/Durgesh-kodan/E-commerce-springboot) - 
 
 ## JavaScript 

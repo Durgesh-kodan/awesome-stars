@@ -109,7 +109,7 @@
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [Alucard2169/dotfiles](https://github.com/Alucard2169/dotfiles) - This repository holds my personal dotfiles for various tiling managers.
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [ComradeCat24/bspwm-dotfiles](https://github.com/ComradeCat24/bspwm-dotfiles) - 
 - [DragonDev07/dotfiles](https://github.com/DragonDev07/dotfiles) - New-Dotfiles, trying it out we'll see lmao
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.

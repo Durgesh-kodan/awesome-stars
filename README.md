@@ -102,6 +102,7 @@
 
 ## Shell 
 
+- [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch or any arch based distros
 - [MrVivekRajan/Grub-Themes](https://github.com/MrVivekRajan/Grub-Themes) - 
 - [kabinspace/dotfiles](https://github.com/kabinspace/dotfiles) - My personal desktop configuration files.
 - [vickydotbat/archvillainette-dotfiles-pub](https://github.com/vickydotbat/archvillainette-dotfiles-pub) - My public dotfiles

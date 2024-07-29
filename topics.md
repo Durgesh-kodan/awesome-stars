@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [angular](#angular)
 - [archlinux](#archlinux)
 - [automation](#automation)
@@ -26,6 +27,8 @@
 - [education](#education)
 - [embedded](#embedded)
 - [es6](#es6)
+- [firebase](#firebase)
+- [flutter](#flutter)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
@@ -56,6 +59,10 @@
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
+
+## ai 
+
+- [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
 
 ## angular 
 
@@ -127,6 +134,7 @@
 
 ## deep-learning 
 
+- [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## design 
@@ -162,6 +170,14 @@
 ## es6 
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+
+## firebase 
+
+- [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
+
+## flutter 
+
+- [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
 
 ## hacking 
 

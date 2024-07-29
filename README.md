@@ -10,6 +10,7 @@
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Others](#others)
 - [Python](#python)
@@ -61,6 +62,10 @@
 - [Durgesh-kodan/real-estate-react-project](https://github.com/Durgesh-kodan/real-estate-react-project) - 
 - [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
 - [Durgesh-kodan/Blackjack](https://github.com/Durgesh-kodan/Blackjack) - 
+
+## Jupyter Notebook 
+
+- [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
 
 ## Lua 
 

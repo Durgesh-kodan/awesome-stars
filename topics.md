@@ -15,6 +15,7 @@
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -46,6 +47,7 @@
 - [python](#python)
 - [react](#react)
 - [react-native](#react-native)
+- [reinforcement-learning](#reinforcement-learning)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
 - [rust](#rust)
@@ -112,6 +114,10 @@
 ## c 
 
 - [riti2409/Resources-for-preparation-Of-Placements](https://github.com/riti2409/Resources-for-preparation-Of-Placements) - Lecture video links for preparation of Placements
+
+## c-plus-plus 
+
+- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
 
 ## computer-science 
 
@@ -307,6 +313,10 @@
 ## react-native 
 
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+
+## reinforcement-learning 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## reverse-engineering 
 

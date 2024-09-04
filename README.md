@@ -12,6 +12,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -72,6 +73,10 @@
 - [Pranay-Lad/dotfiles](https://github.com/Pranay-Lad/dotfiles) - My Arch Linux Bspwm Dotfiles
 - [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup
 
+## Markdown 
+
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
 ## Others 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -80,7 +85,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [riti2409/Resources-for-preparation-Of-Placements](https://github.com/riti2409/Resources-for-preparation-Of-Placements) - Lecture video links for preparation of Placements

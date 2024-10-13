@@ -131,7 +131,7 @@
 
 ## config 
 
-- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
+- [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [Durgesh-kodan/dotfiles](https://github.com/Durgesh-kodan/dotfiles) - Arch bspwm configuration files.
 
 ## cpp 
@@ -160,7 +160,7 @@
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
-- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
+- [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
@@ -210,7 +210,7 @@
 
 - [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
-- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
+- [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup
 
@@ -228,7 +228,7 @@
 
 ## neovim 
 
-- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
+- [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup
 
 ## nodejs 
@@ -345,7 +345,7 @@
 
 ## terminal 
 
-- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
+- [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [Durgesh-kodan/dotfiles](https://github.com/Durgesh-kodan/dotfiles) - Arch bspwm configuration files.
 
 ## typescript 
@@ -355,7 +355,7 @@
 
 ## vim 
 
-- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
+- [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup
 
 ## vue 

@@ -243,7 +243,7 @@
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [MrVivekRajan/Grub-Themes](https://github.com/MrVivekRajan/Grub-Themes) - 
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 
-- [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - 
+- [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - Themes for Hyprland WM
 - [kabinspace/dotfiles](https://github.com/kabinspace/dotfiles) - My personal desktop configuration files.
 - [Shentxt/NordicBreeze](https://github.com/Shentxt/NordicBreeze) - My custom bspwm configuration. Read the readme for more information and comment if you have any questions.
 - [vickydotbat/archvillainette-dotfiles-pub](https://github.com/vickydotbat/archvillainette-dotfiles-pub) - My public dotfiles

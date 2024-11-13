@@ -41,6 +41,7 @@
 
 ## JavaScript 
 
+- [mtblc/image-collage](https://github.com/mtblc/image-collage) - Turns an array of images into a photo collage
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Durgesh-kodan/csv2json](https://github.com/Durgesh-kodan/csv2json) - 
 - [RishabhSoni01/JSON_Converter](https://github.com/RishabhSoni01/JSON_Converter) - 

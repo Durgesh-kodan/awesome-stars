@@ -200,6 +200,7 @@
 
 ## javascript 
 
+- [mtblc/image-collage](https://github.com/mtblc/image-collage) - Turns an array of images into a photo collage
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 

@@ -8,6 +8,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -33,6 +34,10 @@
 ## Go 
 
 - [Durgesh-kodan/go-lang_crud](https://github.com/Durgesh-kodan/go-lang_crud) - this is a crud implementation
+
+## HTML 
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Java 
 
@@ -97,7 +102,6 @@
 - [Durgesh-kodan/wallpapers](https://github.com/Durgesh-kodan/wallpapers) - wallpapers go burrr
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Python 
 

@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [angular](#angular)
+- [api](#api)
 - [archlinux](#archlinux)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -20,6 +21,8 @@
 - [computer-vision](#computer-vision)
 - [config](#config)
 - [cpp](#cpp)
+- [css](#css)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
 - [docker](#docker)
@@ -30,8 +33,11 @@
 - [es6](#es6)
 - [firebase](#firebase)
 - [flutter](#flutter)
+- [git](#git)
+- [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [html](#html)
 - [javascript](#javascript)
 - [learning](#learning)
 - [linux](#linux)
@@ -42,6 +48,7 @@
 - [nodejs](#nodejs)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
+- [postgresql](#postgresql)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -54,6 +61,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [sql](#sql)
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [vim](#vim)
@@ -61,6 +69,7 @@
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
+- [website](#website)
 
 ## ai 
 
@@ -70,6 +79,10 @@
 ## angular 
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+
+## api 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
 
 ## archlinux 
 
@@ -139,6 +152,14 @@
 
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
 
+## css 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
+## database 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
 ## deep-learning 
 
 - [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
@@ -186,6 +207,14 @@
 
 - [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
 
+## git 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
+## golang 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
 ## hacking 
 
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -197,6 +226,10 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+## html 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
 
 ## javascript 
 
@@ -290,6 +323,10 @@
 
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
+## postgresql 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
 ## programming 
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -345,6 +382,10 @@
 
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 
+## sql 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
 ## terminal 
 
 - [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
@@ -375,6 +416,10 @@
 ## webapp 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## website 
+
+- [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
 
 
 ## License

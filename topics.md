@@ -283,7 +283,7 @@
 - [vickydotbat/archvillainette-dotfiles-pub](https://github.com/vickydotbat/archvillainette-dotfiles-pub) - My public dotfiles
 - [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - 
 - [Pranay-Lad/dotfiles](https://github.com/Pranay-Lad/dotfiles) - My Arch Linux Bspwm Dotfiles
-- [ComradeCat24/bspwm-dotfiles](https://github.com/ComradeCat24/bspwm-dotfiles) - 
+- [quantumchuckles/bspwm-dotfiles](https://github.com/quantumchuckles/bspwm-dotfiles) - 
 - [Durgesh-kodan/csv2json](https://github.com/Durgesh-kodan/csv2json) - 
 - [RishabhSoni01/JSON_Converter](https://github.com/RishabhSoni01/JSON_Converter) - 
 - [anisahu99/CSV-2-json-Converter](https://github.com/anisahu99/CSV-2-json-Converter) - CSV to JSON

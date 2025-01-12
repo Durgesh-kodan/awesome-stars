@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [Aebel-Shajan/year-in-data](https://github.com/Aebel-Shajan/year-in-data) - Made this to visualise what I did in 2024 through annual activity heatmaps.
 - [TheWisker/Cavasik](https://github.com/TheWisker/Cavasik) - Audio visualizer based on CAVA
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.

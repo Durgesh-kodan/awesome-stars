@@ -273,6 +273,7 @@
 
 ## others 
 
+- [Aebel-Shajan/year-in-data](https://github.com/Aebel-Shajan/year-in-data) - Made this to visualise what I did in 2024 through annual activity heatmaps.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [MrVivekRajan/Grub-Themes](https://github.com/MrVivekRajan/Grub-Themes) - 

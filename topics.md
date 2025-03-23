@@ -45,6 +45,7 @@
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
 - [neovim](#neovim)
+- [no-code](#no-code)
 - [nodejs](#nodejs)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
@@ -265,6 +266,10 @@
 
 - [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup
+
+## no-code 
+
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 
 ## nodejs 
 

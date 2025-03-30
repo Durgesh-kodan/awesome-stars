@@ -134,7 +134,7 @@
 
 ## TypeScript 
 
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 
 - [Durgesh-kodan/reddit-clone](https://github.com/Durgesh-kodan/reddit-clone) - reddit clone made using react , firebase , chakre-ui
 - [LachlanArthur/Braille-ASCII-Art](https://github.com/LachlanArthur/Braille-ASCII-Art) - Convert images to ASCII art using Braille symbols

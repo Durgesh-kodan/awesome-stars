@@ -134,7 +134,7 @@
 
 ## TypeScript 
 
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Workflow automation with 280+ MCP servers (MCP tools) • AI automation & workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 
 - [Durgesh-kodan/reddit-clone](https://github.com/Durgesh-kodan/reddit-clone) - reddit clone made using react , firebase , chakre-ui
 - [LachlanArthur/Braille-ASCII-Art](https://github.com/LachlanArthur/Braille-ASCII-Art) - Convert images to ASCII art using Braille symbols

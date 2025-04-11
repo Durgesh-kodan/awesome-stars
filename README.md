@@ -134,7 +134,7 @@
 
 ## TypeScript 
 
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 
 - [Durgesh-kodan/reddit-clone](https://github.com/Durgesh-kodan/reddit-clone) - reddit clone made using react , firebase , chakre-ui
 - [LachlanArthur/Braille-ASCII-Art](https://github.com/LachlanArthur/Braille-ASCII-Art) - Convert images to ASCII art using Braille symbols

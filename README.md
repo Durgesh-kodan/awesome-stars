@@ -134,6 +134,7 @@
 
 ## TypeScript 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [Aebel-Shajan/year-in-data](https://github.com/Aebel-Shajan/year-in-data) - Made this to visualise what I did in 2024 through annual activity heatmaps.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 

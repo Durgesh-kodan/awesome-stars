@@ -16,6 +16,7 @@
 - [bioinformatics](#bioinformatics)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [code](#code)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -34,6 +35,7 @@
 - [firebase](#firebase)
 - [flutter](#flutter)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [hacking](#hacking)
@@ -73,6 +75,7 @@
 
 ## ai 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
 
 ## angular 
@@ -127,6 +130,10 @@
 ## c-plus-plus 
 
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
+
+## code 
+
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 
 ## computer-science 
 
@@ -210,6 +217,10 @@
 ## git 
 
 - [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
+## github 
+
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 
 ## go 
 

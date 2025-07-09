@@ -290,6 +290,7 @@
 
 ## others 
 
+- [mit-pdos/sigmaos](https://github.com/mit-pdos/sigmaos) - 
 - [afazio1/web-crawler](https://github.com/afazio1/web-crawler) - CS 4675 HW1 Web Crawler
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:

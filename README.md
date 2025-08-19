@@ -125,7 +125,6 @@
 - [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - 
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
-- [Alucard2169/dotfiles](https://github.com/Alucard2169/dotfiles) - This repository holds my personal dotfiles for various tiling managers.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [quantumchuckles/bspwm-dotfiles](https://github.com/quantumchuckles/bspwm-dotfiles) - 
 - [teowelton/dotfiles](https://github.com/teowelton/dotfiles) - New-Dotfiles, trying it out we'll see lmao

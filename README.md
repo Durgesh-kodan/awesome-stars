@@ -50,7 +50,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Durgesh-kodan/csv2json](https://github.com/Durgesh-kodan/csv2json) - 
 - [RishabhSoni01/JSON_Converter](https://github.com/RishabhSoni01/JSON_Converter) - 
-- [anisahu99/CSV-2-json-Converter](https://github.com/anisahu99/CSV-2-json-Converter) - CSV to JSON
+- [animesh-sahu-99/CSV-2-json-Converter](https://github.com/animesh-sahu-99/CSV-2-json-Converter) - CSV to JSON
 - [Abhayaggithub/POS](https://github.com/Abhayaggithub/POS) - 
 - [Durgesh-kodan/Todo](https://github.com/Durgesh-kodan/Todo) - 
 - [Durgesh-kodan/Real-time-chat-app](https://github.com/Durgesh-kodan/Real-time-chat-app) - 

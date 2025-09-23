@@ -77,6 +77,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -460,6 +461,10 @@
 ## website 
 
 - [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
+## zsh 
+
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
 
 
 ## License

@@ -77,6 +77,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -461,6 +462,10 @@
 ## website 
 
 - [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
+
+## youtube 
+
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
 ## zsh 
 

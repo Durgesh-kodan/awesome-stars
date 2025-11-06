@@ -26,7 +26,7 @@
 
 ## CSS 
 
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - Arch dotfiles. i3 dotfiles.
 - [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - Themes for Hyprland WM
 - [Shentxt/NordicBreeze](https://github.com/Shentxt/NordicBreeze) - My custom bspwm configuration. Read the readme for more information and comment if you have any questions.
 

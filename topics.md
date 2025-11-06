@@ -101,7 +101,7 @@
 ## archlinux 
 
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - Arch dotfiles. i3 dotfiles.
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 
@@ -210,7 +210,7 @@
 ## dotfiles 
 
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - Arch dotfiles. i3 dotfiles.
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
@@ -281,7 +281,7 @@
 
 ## linux 
 
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - Arch dotfiles. i3 dotfiles.
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
@@ -473,7 +473,7 @@
 
 ## zsh 
 
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - Arch dotfiles. i3 dotfiles.
 
 
 ## License

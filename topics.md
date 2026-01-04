@@ -50,6 +50,7 @@
 - [learning](#learning)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [monitoring](#monitoring)
 - [neovim](#neovim)
@@ -296,6 +297,10 @@
 ## machine-learning 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## mcp 
+
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 ## microservices 
 

@@ -37,6 +37,7 @@
 - [education](#education)
 - [embedded](#embedded)
 - [es6](#es6)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flutter](#flutter)
 - [git](#git)
@@ -237,6 +238,10 @@
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 
+## fastapi 
+
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+
 ## firebase 
 
 - [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
@@ -331,7 +336,6 @@
 - [mit-pdos/sigmaos](https://github.com/mit-pdos/sigmaos) - 
 - [afazio1/web-crawler](https://github.com/afazio1/web-crawler) - CS 4675 HW1 Web Crawler
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [MrVivekRajan/Grub-Themes](https://github.com/MrVivekRajan/Grub-Themes) - 
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 
 - [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - Themes for Hyprland WM

@@ -31,6 +31,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [development](#development)
+- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
@@ -206,6 +207,11 @@
 ## development 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## distributed-systems 
+
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 
 ## docker 
 

@@ -121,7 +121,7 @@
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
 - [MrVivekRajan/Grub-Themes](https://github.com/MrVivekRajan/Grub-Themes) - 
 - [kabinspace/dotfiles](https://github.com/kabinspace/dotfiles) - My personal desktop configuration files.
-- [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - 
+- [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - Personal dotfiles
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [mngshm/dotfiles](https://github.com/mngshm/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.

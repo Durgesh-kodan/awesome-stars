@@ -346,7 +346,7 @@
 - [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - Themes for Hyprland WM
 - [kabinspace/dotfiles](https://github.com/kabinspace/dotfiles) - My personal desktop configuration files.
 - [Shentxt/NordicBreeze](https://github.com/Shentxt/NordicBreeze) - My custom bspwm configuration. Read the readme for more information and comment if you have any questions.
-- [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - 
+- [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - Personal dotfiles
 - [Pranay-Lad/dotfiles](https://github.com/Pranay-Lad/dotfiles) - My Arch Linux Bspwm Dotfiles
 - [quantumchuckles/bspwm-dotfiles](https://github.com/quantumchuckles/bspwm-dotfiles) - 
 - [Durgesh-kodan/csv2json](https://github.com/Durgesh-kodan/csv2json) - 

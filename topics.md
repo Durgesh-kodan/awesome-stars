@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithms](#algorithms)
 - [angular](#angular)
@@ -93,6 +94,10 @@
 
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
+
+## ai-agent 
+
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 ## ai-agents 
 

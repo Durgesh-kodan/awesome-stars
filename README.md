@@ -132,7 +132,7 @@
 
 ## TypeScript 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 
 - [Durgesh-kodan/reddit-clone](https://github.com/Durgesh-kodan/reddit-clone) - reddit clone made using react , firebase , chakre-ui

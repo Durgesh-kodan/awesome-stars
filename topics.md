@@ -93,7 +93,7 @@
 
 ## ai 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [offfahad/human-face-sketch-to-real](https://github.com/offfahad/human-face-sketch-to-real) - This system provides the facility to convert roughly hand-drawn humam face sketch image on canvas into a realistic face image by using image generative AI in a real-time.
 
 ## ai-agent 
@@ -166,7 +166,7 @@
 
 ## code 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 
 ## computer-science 
 
@@ -270,7 +270,7 @@
 
 ## github 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 
 ## go 
 
@@ -353,7 +353,6 @@
 - [Durgesh-kodan/manager](https://github.com/Durgesh-kodan/manager) - 
 - [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - Themes for Hyprland WM
 - [kabinspace/dotfiles](https://github.com/kabinspace/dotfiles) - My personal desktop configuration files.
-- [Shentxt/NordicBreeze](https://github.com/Shentxt/NordicBreeze) - My custom bspwm configuration. Read the readme for more information and comment if you have any questions.
 - [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles) - Personal dotfiles
 - [Pranay-Lad/dotfiles](https://github.com/Pranay-Lad/dotfiles) - My Arch Linux Bspwm Dotfiles
 - [quantumchuckles/bspwm-dotfiles](https://github.com/quantumchuckles/bspwm-dotfiles) - 
@@ -483,7 +482,7 @@
 
 ## video 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 
 ## vim 
 

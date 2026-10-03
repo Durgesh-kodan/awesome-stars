@@ -356,6 +356,7 @@
 
 ## others 
 
+- [mayankjoshii/System-Design-Crash-Course](https://github.com/mayankjoshii/System-Design-Crash-Course) - 
 - [Yuteoctober/wins95Portfolio](https://github.com/Yuteoctober/wins95Portfolio) - Windows 95 Portfolio
 - [mit-pdos/sigmaos](https://github.com/mit-pdos/sigmaos) - 
 - [afazio1/web-crawler](https://github.com/afazio1/web-crawler) - CS 4675 HW1 Web Crawler
